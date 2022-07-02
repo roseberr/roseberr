@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 My name is bhang sol chan
+- 😄 My name is Bhang Sol Chan
 - 🔭 I’m currently working on INHA UNIV
 - 🌱 I’m currently learning SPRING
 
