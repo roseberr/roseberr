@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 My name is Bhang Sol Chan
-- 🔭 I’m currently working on INHA UNIV 4th grade
+- 🔭 I’m currently working on INHA UNIV Computer Engineering
 - 🌱 I’m currently learning SPRING
 
 
