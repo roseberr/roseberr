@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 My name is Bhang Sol Chan
 - 🔭 I’m currently graduated INHA UNIV Computer Engineering
-- 🌱 I’m currently learning embedded
+- 🌱 I’m currently learning Embedded Programming
 
 
 <!--
